@@ -17,6 +17,13 @@ The ESP32 creates a WiFi hotspot and hosts a web dashboard that displays live en
   - Humidity
 - Live updating chart for **TVOC trend**
 - Modern **mobile-friendly UI**
+## Demo
+
+A quick demonstration of the ESP32 Air Monitor running in real time.
+
+Click the image below to watch the demo video.
+
+[![ESP32 Air Monitor Demo](1.png)](1.mp4)
 
 ## Hardware
 
