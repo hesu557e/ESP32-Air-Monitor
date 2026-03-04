@@ -23,7 +23,7 @@ A quick demonstration of the ESP32 Air Monitor running in real time.
 
 Click the image below to watch the demo video.
 
-[![ESP32 Air Monitor Demo](1.png)](1.mp4)
+[![ESP32 Air Monitor Demo](1.jpg)](1.mp4)
 
 ## Hardware
 
